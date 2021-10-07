@@ -1,10 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: 'About me:'
+published: true
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+### I am seeking a position to utilize my knowledge, skills, and abilities in the industry that offers competitive environment, a true profession to put in the acquired knowledge and gain exposure to upcoming technologies while being resourceful, innovative and flexible.I am quite confident that my creative ideas as well as theoretical knowledge will help me to take the company to great heights
