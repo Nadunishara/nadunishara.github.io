@@ -2,14 +2,28 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I am a first year suudent in SLIIT. I am seeking a position to expand my learning, knowledge and skills while making a significant contribution to the success of the company. 
 
-### More Information
+### Education.
 
-A place to include any other types of information that you'd like to include about yourself.
+• O/L - Richmond College, Galle 
+ 
+• A/L - Richmond College, Galle 
+ 
+• BACELOR’S DEGREE - BSc (Hons) Biotechnology 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+
+_TELEPHONE-_ +94776769320 
+
+_E-MAIL-_ [nadunishara1999@gmail.com](nadunishara1999@gmail.com)
+
+_ADDRESS-_   No:146\1, 
+           Arachchihena, 
+           Thiththagalla, 
+           Ahangama. 
+  
