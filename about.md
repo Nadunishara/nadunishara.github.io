@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I am a first year suudent in SLIIT. I am seeking a position to expand my learning, knowledge and skills while making a significant contribution to the success of the company. 
+I am a first year student in SLIIT. I am seeking a position to expand my learning, knowledge and skills while making a significant contribution to the success of the company. 
 
 ### Education.
 
